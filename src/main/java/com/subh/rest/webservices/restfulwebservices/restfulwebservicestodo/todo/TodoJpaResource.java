@@ -20,6 +20,12 @@ public class TodoJpaResource {
 	
 	@Autowired
 	private TodoJpaRepository todoJpaRepository;
+	
+	 @GetMapping("/jpa/users") 
+	  public String getWelcomeMessage(){
+	   return "WELCOME TO AWS";
+	  }
+	 
 
 	
 	@GetMapping("/jpa/users/{username}/todos")
