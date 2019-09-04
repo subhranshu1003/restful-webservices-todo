@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.subh.rest.webservices.restfulwebservices</groupId>
-	<artifactId>restful-webservices-todo</artifactId>
+	<artifactId>AWSCodepipelinetest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>restfulwebservices-todo</name>
 	<description>Demo project for Spring Boot</description>
